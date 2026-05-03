@@ -1,2 +1,22 @@
-# Priority-Task-Manager
-The Priority Task Manager is a simple command-line project built to apply basic DSA concepts. It allows users to add, view, sort, search, and delete tasks based on priority. This helped me understand how data structures like lists and algorithms like sorting can be used in real-life scenarios.
+# Priority Task Manager
+
+This is a simple command-line project I built to practice DSA concepts. It helps manage tasks by priority, so more important tasks can be handled first.
+
+You can add, view, sort, search, and delete tasks. I used lists along with sorting and searching techniques to make it work.
+
+This project gave me a better understanding of how DSA can be applied in real-life situations.
+
+## Features
+- Add tasks
+- View tasks
+- Sort tasks by priority
+- Search tasks
+- Delete tasks
+
+## DSA Concepts Used
+- Arrays (lists)
+- Sorting
+- Searching
+
+## How to Run
+Run: python main.py
