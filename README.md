@@ -1,4 +1,4 @@
-# Priority Task Manager
+#Priority Task Manager
 
 This is a simple command-line project I built to practice DSA concepts. It helps manage tasks by priority, so more important tasks can be handled first.
 
