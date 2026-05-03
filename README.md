@@ -20,3 +20,19 @@ This project gave me a better understanding of how DSA can be applied in real-li
 
 ## How to Run
 Run: python main.py
+
+## Sample Run
+
+1. Add Task
+2. View Tasks
+3. Sort Tasks
+4. Search Task
+5. Delete Task
+6. Exit
+
+Enter choice: 1  
+Task name: Study DSA  
+Priority: 1  
+
+Enter choice: 2  
+1. Study DSA (Priority: 1)
